@@ -2,6 +2,8 @@
 This is an SQL project where I analyzed customer churn for MTN. I used Microsoft SQL Server to clean the dataset, calculate KPIs, and uncover churn drivers. 
 My goal was to understand why customers leave and provide actionable recommendations for retention.
 
+![My Image Description](https://github.com/R887645/MTN-Customer-Churn-Analysis/blob/main/14228fe1-eeee-451f-9e2c-2db71aaed605-0.jpg?raw=true)
+
 # Step 1: Data Cleaning
 - I checked for duplicates using Customer_ID, MTN_Device, and Subscription_Plan — none were found.
 
