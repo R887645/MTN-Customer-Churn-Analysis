@@ -11,6 +11,16 @@ My goal was to understand why customers leave and provide actionable recommendat
 
 - I replaced NULLs in Reasons_for_Churn with “Not Applicable” for non-churned customers.
 
+In my analysis, I noticed that some customers appeared multiple times in the dataset because the same person purchased different devices. These were not true duplicates — deleting them would have removed important information needed for analysis.
+
+To handle this correctly, I added a new unique key called RecordID. This ensured that:
+
+- Every row had a unique identifier.
+
+- Customer data remained intact.
+
+I could still analyze multiple purchases by the same customer without losing detail. This step preserved the richness of the dataset while maintaining accuracy in the analysis.
+
 # Step 2: MTN Core KPIs (Data Analysis)
 
 - Total Customers: 974
