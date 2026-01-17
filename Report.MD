@@ -47,21 +47,21 @@ These KPIs gave me a clear picture of MTN’s customer base and the financial im
 
 # Step 5: Top Reasons for Churn
 
-- High Call Tariffs
+- High Call Tariffs – 54 customers
 
-- Better Offers from Competitors
+- Better Offers from Competitors – 52 customers
 
-- Poor Network
+- Poor Network – 45 customers
 
-- Costly Data Plans
+- Costly Data Plans – 40 customers
 
-- Poor Customer Service
+- Poor Customer Service – 34 customers
 
-- Fast Data Consumption
+- Fast Data Consumption – 32 customers
 
-- Relocation
+- Relocation – 27 customers
 
-**My Insight: Pricing and network quality are the biggest churn drivers.**
+**My Insight: The top two reasons (high call tariffs and competitor offers) together account for over 100 churned customers, making pricing and competitive positioning the most urgent issues to address.**
 
 # Key Recommendations 
 
