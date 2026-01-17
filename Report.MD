@@ -41,6 +41,40 @@ These KPIs gave me a clear picture of MTN’s customer base and the financial im
 
 - **By Device Type:** Mobile SIM Card users churned more than 5G Broadband Router users. This points to possible pricing or network issues.
 
-- By Tenure: Long-term customers (12+ months) churned the most. This shows deeper dissatisfaction beyond the early months.
+- **By Tenure:** Long-term customers (12+ months) churned the most. This shows deeper dissatisfaction beyond the early months.
 
-- High-Value Customers at Risk: I identified churned customers with above-average revenue. These are MTN’s most valuable clients and losing them has a big financial impact.
+- **High-Value Customers at Risk:** I identified churned customers with above-average revenue. These are MTN’s most valuable clients, and losing them has a big financial impact.
+
+# Step 5: Top Reasons for Churn
+
+- High Call Tariffs
+
+- Better Offers from Competitors
+
+- Poor Network
+
+- Costly Data Plans
+
+- Poor Customer Service
+
+- Fast Data Consumption
+
+- Relocation
+
+**My Insight: Pricing and network quality are the biggest churn drivers.**
+
+# Key Recommendations 
+
+Based on my analysis, I recommend that MTN should try to:
+
+- **Review pricing and call tariffs:** Since high tariffs and costly data plans are top churn reasons, MTN should try to adjust pricing strategies or introduce competitive bundles.
+
+- **Improve network quality:** Poor network performance is a major churn driver. I recommend that MTN invest in infrastructure upgrades, especially in regions with high churn.
+
+- **Focus on customer onboarding and support:** With churn rising after the first month, MTN should try to strengthen onboarding programs and customer service to reduce early exits.
+
+- **Protect high-value customers:** I recommend creating loyalty programs or VIP support for customers with above-average revenue, as losing them has the biggest financial impact.
+
+This project demonstrates my ability to clean and analyze customer data using SQL, calculate KPIs, and uncover churn drivers. I translated the findings into actionable recommendations that can help MTN make better decisions about pricing, customer experience, and retention strategies.
+
+I believe this analysis can also help other telecommunication companies facing similar churn challenges. By applying these insights, they can make better decisions and proactively address customer dissatisfaction before it leads to revenue loss.
