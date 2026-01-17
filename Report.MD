@@ -100,5 +100,6 @@ Based on my analysis, I recommend that MTN should try to:
 ![My Image Description](https://github.com/R887645/MTN-Customer-Churn-Analysis/blob/main/14228fe1-eeee-451f-9e2c-2db71aaed605-15.jpg?raw=true)
 
 This project demonstrates my ability to clean and analyze customer data using SQL, calculate KPIs, and uncover churn drivers. I translated the findings into actionable recommendations that can help MTN make better decisions about pricing, customer experience, and retention strategies.
+**[Read the Full Slides Here](https://docs.google.com/presentation/d/1ic13jrI0h-rLrEg0aPrcaobcFwlSIHFv875CVsNDOdc/edit?usp=sharing)**
 
 I believe this analysis can also help other telecommunication companies facing similar churn challenges. By applying these insights, they can make better decisions and proactively address customer dissatisfaction before it leads to revenue loss.
