@@ -21,6 +21,8 @@ To handle this correctly, I added a new unique key called RecordID. This ensured
 
 I could still analyze multiple purchases by the same customer without losing detail. This step preserved the richness of the dataset while maintaining accuracy in the analysis.
 
+![My Image Description](https://github.com/R887645/MTN-Customer-Churn-Analysis/blob/main/14228fe1-eeee-451f-9e2c-2db71aaed605-4.jpg?raw=true)
+
 # Step 2: MTN Core KPIs (Data Analysis)
 
 - Total Customers: 974
