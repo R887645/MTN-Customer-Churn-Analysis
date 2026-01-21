@@ -19,6 +19,8 @@ To handle this correctly, I added a new unique key called RecordID. This ensured
 
 - Every row had a unique identifier.
 
+![My Image Description](https://github.com/R887645/MTN-Customer-Churn-Analysis/blob/main/Record%20ID.png?raw=true)
+
 - Customer data remained intact.
 
 I could still analyze multiple purchases by the same customer without losing detail. This step preserved the richness of the dataset while maintaining accuracy in the analysis.
