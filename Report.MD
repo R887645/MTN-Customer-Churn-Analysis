@@ -11,10 +11,6 @@ My goal was to understand why customers leave and provide actionable recommendat
 
 - I standardized churn status to “Yes” and “No.”
 
-- I replaced NULLs in Reasons_for_Churn with “Not Applicable” for non-churned customers.
-
-![My Image Description](https://github.com/R887645/MTN-Customer-Churn-Analysis/blob/main/14228fe1-eeee-451f-9e2c-2db71aaed605-4.jpg?raw=true)
-
 In my analysis, I noticed that some customers appeared multiple times in the dataset because the same person purchased different devices. These were not true duplicates — deleting them would have removed important information needed for analysis.
 
 To handle this correctly, I added a new unique key called RecordID. This ensured that:
@@ -27,9 +23,12 @@ To handle this correctly, I added a new unique key called RecordID. This ensured
 ![My Image Description](https://github.com/R887645/MTN-Customer-Churn-Analysis/blob/main/Record%20ID%20unique%20table.png?raw=true)
 
 - Customer data remained intact.
-
 I could still analyze multiple purchases by the same customer without losing detail. This step preserved the richness of the dataset while maintaining accuracy in the analysis.
 
+
+- I replaced NULLs in Reasons_for_Churn with “Not Applicable” for non-churned customers.
+
+![My Image Description](https://github.com/R887645/MTN-Customer-Churn-Analysis/blob/main/14228fe1-eeee-451f-9e2c-2db71aaed605-4.jpg?raw=true)
 
 # Step 2: MTN Core KPIs (Data Analysis)
 
